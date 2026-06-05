@@ -1,12 +1,12 @@
 {
-    "version": "0.3.4",
+    "version": "0.3.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/RemkoMolier/docker-hash/releases/download/v0.3.4/docker-hash_0.3.4_windows_amd64.zip",
+            "url": "https://github.com/RemkoMolier/docker-hash/releases/download/v0.3.5/docker-hash_0.3.5_windows_amd64.zip",
             "bin": [
                 "docker-hash.exe"
             ],
-            "hash": "2e584c19687b92402a5dc54efc10c486cc9a4ac89592c93b3fc2d1183a2da526"
+            "hash": "6030e4f9246caf6a4f5abe14759858dcec2ca6d17b28d5241e8b9e4683776e63"
         }
     },
     "homepage": "https://github.com/RemkoMolier/docker-hash",
